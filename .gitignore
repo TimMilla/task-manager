@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Umgebungsvariablen
+.env
+.env.local
+
+# IDE-spezifische Dateien
+.vscode/
+.idea/
+
+# Build-Ordner
+dist/
+build/
